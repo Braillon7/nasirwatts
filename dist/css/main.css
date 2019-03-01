@@ -611,6 +611,10 @@
     main .lg-heading {
       margin-top: 1rem;
       font-size: 4rem;
+      text-align: center;
+    }
+    main .text-secondary {
+      text-align: center;
     }
     .boxes div {
         font-size: 1rem;
