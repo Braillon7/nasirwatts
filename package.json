@@ -1,0 +1,15 @@
+{
+  "name": "nasir_header",
+  "version": "1.0.0",
+  "description": "Professional Portfolio",
+  "main": "index.js",
+  "homepage": "https:/Braillon7.github.io/nasirwatts",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Nasir Watts",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
